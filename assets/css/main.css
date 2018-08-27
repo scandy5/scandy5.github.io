@@ -1573,6 +1573,9 @@ button,
   transform: scale(1.05);
   position: relative;
 }
+.image img{
+  transition: all .7s ease;
+}
 
 
 
